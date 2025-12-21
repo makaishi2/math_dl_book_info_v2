@@ -1,6 +1,6 @@
 
 # Q2-1
-合成関数 $$ h(x)=g\circ f(x) $$ を求める。
+合成関数 $ h(x)=g\circ f(x) $ を求める。
 
 $$
 f(x)=x^2+1,\quad g(x)=\sqrt{x}
@@ -81,18 +81,12 @@ $$
 次の不定積分を計算せよ。
 
 $$
-\int \frac{x}{\sqrt{x^2+1}}\,dx
+\int \frac{x}{\sqrt{x^2+1}}\ dx
 $$
 
-$$
-u=x^2+1,\quad du=2x\,dx
-$$
+<br>
+Q2-3 の解答より
 
 $$
-\int \frac{x}{\sqrt{x^2+1}}\,dx
-=\frac12\int u^{-1/2}\,du
-$$
-
-$$
-=\sqrt{x^2+1}+C
+\sqrt{x^2+1}+C
 $$
