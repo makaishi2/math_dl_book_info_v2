@@ -209,3 +209,63 @@ $$
 $$
 \boxed{\text{最も近い 2 つのベクトルは }\mathbf{a}\text{ と }\mathbf{b}}
 $$
+
+## Q3-5
+次の行列とベクトルのかけ算を計算せよ。
+
+$$
+\begin{pmatrix}
+2 & -1 \\
+4 & 3 \\
+-5 & 6
+\end{pmatrix}
+\begin{pmatrix}
+3 \\
+2
+\end{pmatrix}
+$$
+
+---
+
+### 解答
+行列とベクトルの積は、**各行とベクトルの内積**で計算する。
+
+#### 第1成分
+$$
+2\cdot 3 + (-1)\cdot 2
+=6-2
+=4
+$$
+
+#### 第2成分
+$$
+4\cdot 3 + 3\cdot 2
+=12+6
+=18
+$$
+
+#### 第3成分
+$$
+(-5)\cdot 3 + 6\cdot 2
+=-15+12
+=-3
+$$
+
+### 結果
+$$
+\begin{pmatrix}
+2 & -1 \\
+4 & 3 \\
+-5 & 6
+\end{pmatrix}
+\begin{pmatrix}
+3 \\
+2
+\end{pmatrix}
+=
+\begin{pmatrix}
+4 \\
+18 \\
+-3
+\end{pmatrix}
+$$
