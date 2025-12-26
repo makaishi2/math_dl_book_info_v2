@@ -72,7 +72,7 @@ $$
 
 （$p,q,\lambda,w_{11},w_{12},w_{21},w_{22}$ は定数）
 
-### 1. まず $\partial L/\partial u,\ \partial L/\partial v$
+1. まず $\partial L/\partial u,\ \partial L/\partial v$
 
 $$
 \frac{\partial L}{\partial u}=(1+2\lambda)u-p,
@@ -80,7 +80,7 @@ $$
 \frac{\partial L}{\partial v}=(1+2\lambda)v-q
 $$
 
-### 2. 連鎖律（チェインルール）
+2. 連鎖律（チェインルール）
 
 $$
 \frac{\partial L}{\partial x_1}
@@ -101,7 +101,7 @@ $$
 +\left((1+2\lambda)v-q\right)w_{21}
 $$
 
-### 3. $u,v$ を $x_1,x_2$ で書き換える
+3. $u,v$ を $x_1,x_2$ で書き換える
 
 $$
 u=w_{11}x_1+w_{12}x_2,\qquad
