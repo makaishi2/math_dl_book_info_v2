@@ -5,8 +5,10 @@
 |   章   |タイトル(リンク)                | 備考 |
 | ---- | -------------- | ------------------------------------------------------------ |
 | ７章 | [回帰モデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/07_regression.ipynb)     |  |
-| ８章 | [二値分類モデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/08_bi_classify.ipynb) |                                                              |
-|    ９章  |[多値分類モデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/09_multi_classify.ipynb)                |                                                              |
+| ７章  |[コラム　NumPy を使ったコーディングテクニック](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/07_x_numpy.ipynb) | |
+| ８章 | [二値分類モデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/08_bi_classify.ipynb) |   |
+| ９章 |[多値分類モデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/09_multi_classify.ipynb)          |    |
+| ９章  |[コラム　NumPy 行列に対する集計関数の操作](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/09_x_numpy.ipynb) | |
 | １０章 |[ディープラーニングモデル](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/10_deeplearning.ipynb) | |
 | 11.1節 |[フレームワーク](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/11_01_pytorch.ipynb) | |
 | 11.2節 |[数値微分](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/11_02_num_diff.ipynb) | |
