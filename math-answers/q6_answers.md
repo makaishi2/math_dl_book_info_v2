@@ -8,15 +8,13 @@
 (a) 尤度関数 $L(p)$
 
 $$
-L(p)=\binom{n}{k}\,p^k(1-p)^{\,n-k}
+L(p)={}_{n}C_{k}\,p^k(1-p)^{\,n-k}
 $$
-
-（$\binom{n}{k}$ は定数なので $L(p)\propto p^k(1-p)^{n-k}$ と書いてもよい）
 
 (b) 対数尤度 $l(p)=\log L(p)$
 
 $$
-l(p)=\log\binom{n}{k}+k\log p+(n-k)\log(1-p)
+l(p)=\log{}_{n}C_{k}+k\log p+(n-k)\log(1-p)
 $$
 
 (c) 最尤推定量 $\hat p$
@@ -35,13 +33,11 @@ $$
 
 $X\sim N(\mu,1)$ から得られた独立標本 $x_1,\dots,x_n$ を考える。  
 
-一般形の正規分布密度
+一般形の正規分布密度に$\sigma^2=1$を代入し
 
 $$
-f(x)=\frac{1}{\sqrt{2\pi\sigma^2}}\exp\!\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
+f(x)=\frac{1}{\sqrt{2\pi}}\exp\!\left(-\frac{(x-\mu)^2}{2}\right)
 $$
-
-を使う（本問では $\sigma^2=1$）
 
 ---
 
@@ -50,23 +46,23 @@ $$
 $$
 L(\mu)
 =\prod_{i=1}^n f(x_i)
-=(2\pi\sigma^2)^{-n/2}
-\exp\!\left(-\frac{1}{2\sigma^2}\sum_{i=1}^n (x_i-\mu)^2\right)
+=(2\pi)^{-n/2}
+\exp\!\left(-\frac{1}{2}\sum_{i=1}^n (x_i-\mu)^2\right)
 $$
 
 (b) 対数尤度 $l(\mu)=\log L(\mu)$
 
 $$
 l(\mu)
-=-\frac{n}{2}\log(2\pi\sigma^2)
--\frac{1}{2\sigma^2}\sum_{i=1}^n (x_i-\mu)^2
+=-\frac{n}{2}\log(2\pi)
+-\frac{1}{2}\sum_{i=1}^n (x_i-\mu)^2
 $$
 
 (c) 最尤推定量 $\hat\mu$
 
 $$
 \frac{dl}{d\mu}
-=\frac{1}{\sigma^2}\sum_{i=1}^n (x_i-\mu)=0
+=\sum_{i=1}^n (x_i-\mu)=0
 \quad\Longrightarrow\quad
 \sum_{i=1}^n x_i = n\mu
 $$
