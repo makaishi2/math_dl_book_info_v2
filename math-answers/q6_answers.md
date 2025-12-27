@@ -24,7 +24,9 @@ $$
 $$
 
 $$
-\Longrightarrow\quad k(1-p)=p(n-k)\quad\Longrightarrow\quad \hat p=\frac{k}{n}
+k(1-p)-p(n-k)=0 \\
+k-pn=0 \\
+\hat p=\frac{k}{n}
 $$
 
 ---
@@ -62,8 +64,8 @@ $$
 
 $$
 \frac{dl}{d\mu}
-=\sum_{i=1}^n (x_i-\mu)=0
-\quad\Longrightarrow\quad
+=\sum_{i=1}^n (x_i-\mu)=0 \\
+\sum_{i=1}^n x_i - n\mu = 0 \\
 \sum_{i=1}^n x_i = n\mu
 $$
 
