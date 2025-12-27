@@ -20,4 +20,10 @@
 | 11.8節 |[RNN/LSTM](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/11_08_lstm.ipynb) | |
 | 11.9節 |[Transformer](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/11_09_transformer.ipynb) | |
 |  | | |
+|１章|[機械学習入門](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/01_entry.ipynb) | |
+|２章|[微分・積分](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/02_diff.ipynb) | |
+|３章|[ベクトル・行列](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/03_vector.ipynb) | |
+|４章|[多変数関数の微分](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/04_grad.ipynb) | |
+|５章|[指数関数・対数関数](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/05_ex_log.ipynb) | |
+|６章|[確率・統計](https://colab.research.google.com/github/makaishi2/math_dl_book_info_v2/blob/main/notebooks/06_prob.ipynb) | |
 
