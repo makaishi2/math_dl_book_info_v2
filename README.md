@@ -15,6 +15,10 @@ Notebookファイルの Gmail を使える状態にした上で、下記リン
 
 [アニメーション集](animations.md)
 
+ 各章の演習問題の解答は、下記リンク先から確認できます。
+ 
+ [演習問題解答集](math-answers.md)
+
 ---
 
 ### 著者による補足情報
@@ -26,9 +30,9 @@ Notebookファイルの Gmail を使える状態にした上で、下記リン
 |プレゼン資料|[AI・DS領域を学習したい方に向けて](https://speakerdeck.com/makaishi2/aidsling-yu-woxue-xi-sitaifang-nixiang-kete)|2022-12-03に異業種データサイエンス研究会主催で行われたイベントでの招講演資料です。本書を含め、それぞれの書籍執筆への「思い」を語っています。|
 |twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
 
- 
+
 ---
- 
+
 ### 外部リンク集
 
 |ソース  |タイトルとリンク  |補足|
