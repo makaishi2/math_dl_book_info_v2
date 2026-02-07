@@ -26,7 +26,7 @@ Notebookファイルの Gmail を使える状態にした上で、下記リン
 |プレゼン資料|[AI・DS領域を学習したい方に向けて](https://speakerdeck.com/makaishi2/aidsling-yu-woxue-xi-sitaifang-nixiang-kete)|2022-12-03に異業種データサイエンス研究会主催で行われたイベントでの招講演資料です。本書を含め、それぞれの書籍執筆への「思い」を語っています。|
 |twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
 
- --
+ ---
  
  
  ### 外部リンク集
