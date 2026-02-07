@@ -1,6 +1,6 @@
 | 章   |  タイトル| ページ | 回答リンク |
 | ---- | ------ | ---- | ---- |
-|2|微分・積分|64|math-answers/q2_answers.pdf|
+|2|微分・積分|64| [PDFを見る](math-answers/q2_answers.pdf)|
 
 
 
